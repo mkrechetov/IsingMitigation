@@ -1,4 +1,4 @@
-This is the code that supports paper "Prediction and Prevention of Pandemics via Graphical Model Inference and Convex Programming".
+This is the code that supports paper "Prediction and Prevention of Pandemics via Graphical Model Inference and Convex Programming": https://arxiv.org/abs/2109.04517.
 
 Below, is the content description:<br/>
 "Cascades.ipynb" - here we illustrate the Cascade (SIR) model.<br/>
